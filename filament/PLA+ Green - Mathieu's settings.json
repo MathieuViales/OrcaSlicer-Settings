@@ -1,9 +1,15 @@
 {
+    "close_fan_the_first_x_layers": [
+        "3"
+    ],
     "default_filament_colour": [
         "#004000"
     ],
     "enable_pressure_advance": [
         "1"
+    ],
+    "fan_min_speed": [
+        "50"
     ],
     "filament_cost": [
         "21"
@@ -14,6 +20,9 @@
     "filament_flow_ratio": [
         "1.03"
     ],
+    "filament_retract_before_wipe": [
+        "70%"
+    ],
     "filament_retract_when_changing_layer": [
         "1"
     ],
@@ -21,7 +30,7 @@
         "5"
     ],
     "filament_retraction_minimum_travel": [
-        "1"
+        "2.5"
     ],
     "filament_retraction_speed": [
         "60"
@@ -33,13 +42,13 @@
         "1"
     ],
     "filament_wipe_distance": [
-        "3"
+        "5"
     ],
     "filament_z_hop": [
-        "0.4"
+        "0.1"
     ],
     "filament_z_hop_types": [
-        "Spiral Lift"
+        "Auto Lift"
     ],
     "from": "User",
     "inherits": "Creality Generic PLA",
@@ -58,7 +67,7 @@
         "195"
     ],
     "pressure_advance": [
-        "0.6"
+        "0.52"
     ],
     "slow_down_layer_time": [
         "1"
