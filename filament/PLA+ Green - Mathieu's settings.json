@@ -48,7 +48,7 @@
         "0.1"
     ],
     "filament_z_hop_types": [
-        "Auto Lift"
+        "Normal Lift"
     ],
     "from": "User",
     "inherits": "Creality Generic PLA",
