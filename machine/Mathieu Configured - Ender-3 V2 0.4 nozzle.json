@@ -20,10 +20,37 @@
         "1500",
         "500"
     ],
+    "machine_max_jerk_x": [
+        "50",
+        "8"
+    ],
+    "machine_max_jerk_y": [
+        "50",
+        "8"
+    ],
     "machine_start_gcode": "START_PRINT BED_TEMP=[first_layer_bed_temperature] EXTRUDER_TEMP=[first_layer_temperature]\n",
     "name": "Mathieu Configured - Ender-3 V2 0.4 nozzle",
     "nozzle_type": "brass",
-    "print_host": "http://ender3.local/",
+    "print_host": "ender3.local:7125",
+    "print_host_webui": "ender3.local",
     "printer_settings_id": "Mathieu Configured - Ender-3 V2 0.4 nozzle",
-    "version": "2.3.0.3"
+    "retract_before_wipe": [
+        "90%"
+    ],
+    "retract_when_changing_layer": [
+        "0"
+    ],
+    "retraction_length": [
+        "3"
+    ],
+    "retraction_minimum_travel": [
+        "9"
+    ],
+    "travel_slope": [
+        "10"
+    ],
+    "version": "2.3.0.3",
+    "wipe_distance": [
+        "5"
+    ]
 }

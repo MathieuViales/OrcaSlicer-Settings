@@ -20,6 +20,9 @@
     "filament_flow_ratio": [
         "1.03"
     ],
+    "filament_max_volumetric_speed": [
+        "18"
+    ],
     "filament_retract_before_wipe": [
         "70%"
     ],
@@ -55,10 +58,10 @@
     "is_custom_defined": "0",
     "name": "PLA+ Green - Mathieu's settings",
     "nozzle_temperature": [
-        "195"
+        "225"
     ],
     "nozzle_temperature_initial_layer": [
-        "210"
+        "230"
     ],
     "nozzle_temperature_range_high": [
         "215"
