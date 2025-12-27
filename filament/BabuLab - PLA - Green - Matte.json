@@ -1,0 +1,16 @@
+{
+    "compatible_printers": [
+        "Creality Ender-3 V2 0.4 nozzle"
+    ],
+    "default_filament_colour": [
+        "#005500"
+    ],
+    "filament_settings_id": [
+        "BabuLab - PLA - Green - Matte"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @System",
+    "is_custom_defined": "0",
+    "name": "BabuLab - PLA - Green - Matte",
+    "version": "2.3.1.10"
+}
