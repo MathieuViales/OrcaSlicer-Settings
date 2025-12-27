@@ -1,0 +1,8 @@
+{
+    "from": "User",
+    "inherits": "0.15mm Optimal @Creality Ender3V2",
+    "is_custom_defined": "0",
+    "name": "0.15mm LH",
+    "print_settings_id": "0.15mm LH",
+    "version": "2.3.1.10"
+}
