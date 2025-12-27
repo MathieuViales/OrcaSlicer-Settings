@@ -5,7 +5,8 @@
     "is_custom_defined": "0",
     "name": "Ender-3 V2",
     "nozzle_type": "brass",
-    "print_host": "http://ender3.local:7125",
+    "print_host": "ender3.local:7125",
+    "print_host_webui": "ender3.local",
     "printer_settings_id": "Ender-3 V2",
     "version": "2.3.1.10"
 }
