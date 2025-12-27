@@ -1,0 +1,11 @@
+{
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "Creality Ender-3 V2 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Ender-3 V2",
+    "nozzle_type": "brass",
+    "print_host": "http://ender3.local:7125",
+    "printer_settings_id": "Ender-3 V2",
+    "version": "2.3.1.10"
+}
