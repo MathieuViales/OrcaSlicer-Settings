@@ -3,6 +3,8 @@
     "gcode_flavor": "klipper",
     "inherits": "Creality Ender-3 V2 0.4 nozzle",
     "is_custom_defined": "0",
+    "machine_end_gcode": "END_PRINT",
+    "machine_start_gcode": "START_PRINT",
     "name": "Ender-3 V2",
     "nozzle_type": "brass",
     "print_host": "ender3.local:7125",
